@@ -1,0 +1,10 @@
+theme: papermod
+title: "sloonz's blog"
+params:
+  author: sloonz
+  homeInfoParams:
+    title: "sloonz's blog"
+  socialIcons:
+    - name: github
+      title: My Github Profile
+      url: https://github.com/sloonz/
