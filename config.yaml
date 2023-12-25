@@ -1,5 +1,6 @@
 theme: papermod
 title: "sloonz's blog"
+copyright: "This work is licensed under the [CC0 1.0 Universal Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/)."
 params:
   author: sloonz
   showFullTextInRSS: true
