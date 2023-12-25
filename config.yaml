@@ -2,9 +2,13 @@ theme: papermod
 title: "sloonz's blog"
 params:
   author: sloonz
+  showFullTextInRSS: true
   homeInfoParams:
     title: "sloonz's blog"
   socialIcons:
     - name: github
       title: My Github Profile
       url: https://github.com/sloonz/
+    - name: rss
+      title: RSS feed
+      url: /index.xml
