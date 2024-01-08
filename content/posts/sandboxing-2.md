@@ -299,5 +299,5 @@ to access. Pay extra attention to `ENOENT` (file does not exists) errors
 repository](https://github.com/flathub/) ; you may find workarounds here
 that the flatpak project had to use for that specific application
 
-This concludes our overview of bubblewrap. However, the bwrap command is starting to get very unwiedly. Next week,
+This concludes our overview of bubblewrap. However, the bwrap command is starting to get very unwiedly. [Next week]({{<ref "posts/sandboxing-3.md">}}),
 I’ll present you the script I actually use to keep it manageable.

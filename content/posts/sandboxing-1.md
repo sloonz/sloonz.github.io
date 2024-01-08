@@ -226,5 +226,5 @@ instead of `--bind`) ; otherwise a compromised process may write to them
 a malicious payload to gain access the next time those files are read
 (and executed) in your non-sandboxed environment.
 
-Next time, we’ll see the basics of running sandboxed graphical
+[Next time]({{<ref "posts/sandboxing-2.md">}}), we’ll see the basics of running sandboxed graphical
 applications like your IDE or your browser.
